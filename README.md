@@ -5,6 +5,13 @@ C语言项目，大一上学期写的一个十分简陋的学生信息管理系�
 
 项目地址：[Chord的C语言项目实践](https://github.com/ChordXD/MyCproject)
 
+## 感想
+github真的太好用惹！
+
+同时这个项目是软件工程过程的作业。
+软件17-2 彭睿杰 
+学号：1714010217
+
 ## 项目实践报告原文
 
 ### 一、需求分析
@@ -103,22 +110,22 @@ int  bSearch(int begin,int end,int aim)
 #### （二）系统运行界面及结果
 
 ##### 1、初始界面
-![初始界面](https://github.com/ChordXD/MyCproject/1.png)
+![初始界面](https://github.com/ChordXD/MyCproject/blob/master/1.png)
 
 ##### 2、显示所有学生成绩
-![显示所有学生成](https://github.com/ChordXD/MyCproject/2.png)
+![显示所有学生成](https://github.com/ChordXD/MyCproject/blob/master/2.png)
  
 ##### 3、查询学生成绩
- ![查询学生成绩](https://github.com/ChordXD/MyCproject/3.png)
+ ![查询学生成绩](https://github.com/ChordXD/MyCproject/blob/master/3.png)
 
 ##### 4、增加一个学生的成绩。
- ![增加一个学生的成绩](https://github.com/ChordXD/MyCproject/4.png)
+ ![增加一个学生的成绩](https://github.com/ChordXD/MyCproject/blob/master/4.png)
 
 ##### 5、删除一个学生的成绩
- ![删除一个学生的成绩](https://github.com/ChordXD/MyCproject/5.png)
+ ![删除一个学生的成绩](https://github.com/ChordXD/MyCproject/blob/master/5.png)
 
 ##### 6、退出
-![退出](https://github.com/ChordXD/MyCproject/6.png)
+![退出](https://github.com/ChordXD/MyCproject/blob/master/6.png)
 
 ### 四、系统测试
 
